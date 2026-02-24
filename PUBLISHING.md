@@ -84,11 +84,11 @@ After publishing, test the installation:
 
 ```bash
 # Test npm install
-npm install -g t-store
+npm install -g @vp21-sudo/t-store
 tstore --help
 
 # Or with bun
-bun install -g t-store
+bun install -g @vp21-sudo/t-store
 tstore --help
 ```
 

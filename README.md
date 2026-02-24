@@ -19,9 +19,9 @@
 ### Via npm (Recommended)
 
 ```bash
-npm install -g t-store
+npm install -g @vp21-sudo/t-store
 # or
-bun install -g t-store
+bun install -g @vp21-sudo/t-store
 ```
 
 ### Via GitHub Releases (Standalone Binary)
