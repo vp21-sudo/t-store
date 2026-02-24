@@ -1,0 +1,29 @@
+# Build output
+*.log
+*.tsbuildinfo
+
+# Development
+test_add.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# GitHub
+.github/
+
+# Don't ignore these
+!bin/
+!src/
+!dist/
