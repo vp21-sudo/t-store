@@ -1,5 +1,5 @@
 {
-  "name": "@vp21-sudo/t-store",
+  "name": "@vp21/t-store",
   "version": "1.0.0",
   "description": "Terminal Command Store - Save and run commands with aliases",
   "main": "./dist/index.js",
